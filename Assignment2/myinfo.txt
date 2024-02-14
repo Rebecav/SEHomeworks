@@ -1,3 +1,7 @@
 Rebeca Vara
 11102
+<<<<<<< HEAD
 (347)785-5181
+=======
+rebecav
+>>>>>>> 8d93bfa97745ebbfc9aadf6b7d0a0a9e1b02c27e
